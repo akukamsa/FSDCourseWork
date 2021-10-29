@@ -1,0 +1,4 @@
+id;Name;Classs;sec
+1;Akash;12;A
+2;Shwetlana;2;A
+3;Bishal;11;A
